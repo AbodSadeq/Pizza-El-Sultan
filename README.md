@@ -30,7 +30,7 @@ These figures use a Margherita base price of 100 EGP, plus 30 for medium size, 2
 
 ![Final UML](diagrams/final-uml.png)
 
-The final diagram contains the 33 types in the supplied code, including `Main`. The full and summary diagrams have the same classes and relationships; the summary hides the members.
+The final diagram contains the 33 types in the supplied code, including `Main`.
 
 ## Phase 3 — Main architectural changes
 
